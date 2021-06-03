@@ -1,7 +1,7 @@
 # multi-nomp: Some New Open Mining Portal
 
 > *NOTE*:
-> We're working on putting together an "official" s-nomp which can be supported by many coins and pools instead of so many running their own flavors. More to come!
+> This is a work on progress... More to come!
 
 This is a Equihash mining pool based off Node Open Mining Portal.
 
@@ -15,7 +15,7 @@ Usage of this software requires abilities with sysadmin, database admin, coin da
 
 Please join our Discord to follow development. Any support questions can be answered here quickly as well.
 
-https://discord.gg/YPbeDVx
+https://discord.gg/75UYRvAD
 
 # Usage
 
