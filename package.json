@@ -8,6 +8,9 @@
         "pool",
         "server",
         "poolserver",
+        "bitcoin",
+        "Ravencoin",
+        "kawpow",
         "equihash"
     ],
     "homepage": "https://github.com/CryptoCyberCid/multi-nomp",
@@ -62,7 +65,7 @@
         "equihashverify": "git://github.com/CryptoCyberCid/equihashverify.git",
         "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",        
         "verushash": "git://github.com/CryptoCyberCid/node-verushash.git",
-        "stratum-pool": "git+https://github.com/mhssamadani/ErgoStratumServer.git"
+        "stratum-pool": "git+https://github.com/hermangroup/ErgoStratumServer.git"
     },
     "engines": {
         "node": ">=8.11"
