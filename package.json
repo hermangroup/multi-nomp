@@ -23,6 +23,7 @@
         "sennevb",
         "TheSeven",
         "vekexasia",
+        "Freeman",
         "SolFly"
     ],
     "main": "init.js",
@@ -35,7 +36,9 @@
     },
     "dependencies": {
         "async": "^2.6.1",
-        "bignum": "^0.13.0",
+        "base58-native": "*",
+        "big-integer": "^1.6.48",
+        "bignum": "^0.13.1",
         "body-parser": "^1.18.3",
         "colors": "^1.3.1",
         "compression": "^1.7.3",
@@ -57,7 +60,7 @@
         "bitgo-utxo-lib": "git://github.com/CryptoCyberCid/bitgo-utxo-lib.git",
         "cryptocurrency-addr": "git://github.com/CryptoCyberCid/cryptocurrency-addr.git",
         "equihashverify": "git://github.com/CryptoCyberCid/equihashverify.git",
-        "multi-hashing": "git://github.com/CryptoCyberCid/node-multi-hashing.git",        
+        "multi-hashing": "git://github.com/zone117x/node-multi-hashing.git",        
         "verushash": "git://github.com/CryptoCyberCid/node-verushash.git",
         "stratum-pool": "git+https://github.com/mhssamadani/ErgoStratumServer.git"
     },
